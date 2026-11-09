@@ -5,6 +5,7 @@ Software Engineer (React Native & full-stack) in Karachi, Pakistan. At **Paysys 
 Most of my professional work is in private repositories. This profile holds my community, business and personal projects.
 
 **Stack:** React Native · TypeScript · React · Next.js · Node.js · Python (FastAPI, Django) · PostgreSQL · Supabase
+
 **Interests:** human-AI decision-making · explainable AI · fintech
 
 ## Community software
